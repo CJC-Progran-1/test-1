@@ -8,6 +8,21 @@
 | col 2 is     | centered      |   $12      |  $2       |Otro       |   [I'm an inline-style link](https://www.google.com)      |
 | zebra stripes| are neat      |    $1      |  $3       |Otro       |         |
 
+### SEMANA 2
+
+| Lunes        | Martes        | Miercoles  | Jueves    | Viernes   | Sabado  |
+| -------------|:-------------:| ----------:| --------- |:---------:| -------:|
+| col 3 is     | right-aligned | $1600      |  $1       |Otro       |         |   
+| col 2 is     | centered      | [Prueba](https://www.google.com)       |  $2       |Otro       |   Test     |
+| zebra stripes| are neat      |    $1      |  $3       |Otro       |         |
+
+### SEMANA 3
+
+| Lunes        | Martes        | Miercoles  | Jueves    | Viernes   | Sabado  |
+| -------------|:-------------:| ----------:| --------- |:---------:| -------:|
+| col 3 is     | right-aligned | $1600      |  $1       |Otro       |         |   
+| col 2 is     | centered      |   $12      |  $2       |Otro       |   [I'm an inline-style link](https://www.google.com)      |
+| zebra stripes| are neat      |    $1      |  $3       |Otro       |         |
 
 
 1. First ordered list item
